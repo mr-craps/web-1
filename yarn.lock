@@ -2069,10 +2069,10 @@
     "@standardnotes/sncrypto-common" "^1.5.2"
     libsodium-wrappers "^0.7.8"
 
-"@standardnotes/snjs@2.14.6":
-  version "2.14.6"
-  resolved "https://registry.yarnpkg.com/@standardnotes/snjs/-/snjs-2.14.6.tgz#fb3f625ec6f22bbee543ccb6fc69e177311c1a4b"
-  integrity sha512-/PfuyOv2u4Km29yQi2JXYYUteFmHmLYnbQhk96wYHbCwBiNmIyVdSp0VaA4XgVIuZq32QyhhTayjkexq5Huw/Q==
+"@standardnotes/snjs@2.14.8":
+  version "2.14.8"
+  resolved "https://registry.yarnpkg.com/@standardnotes/snjs/-/snjs-2.14.8.tgz#ebd89734d7e846ade96b7d0d81a465418147337d"
+  integrity sha512-+nfo1civqJlHfrcDeKNJfp2t6o4gs1pkDbjPzT3vULhZUWbOwCeuF1jXHosCxpjnhd+5Wa/oG2KcbKKsqlrrfw==
   dependencies:
     "@standardnotes/auth" "3.7.2"
     "@standardnotes/common" "1.1.0"
@@ -8767,9 +8767,9 @@ urix@^0.1.0:
   integrity sha1-2pN/emLiH+wf0Y1Js1wpNQZ6bHI=
 
 url-parse@^1.4.3, url-parse@^1.4.7:
-  version "1.4.7"
-  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.4.7.tgz#a8a83535e8c00a316e403a5db4ac1b9b853ae278"
-  integrity sha512-d3uaVyzDB9tQoSXFvuSUNFibTd9zxd2bkVrDRvF5TmvWWQwqE4lgYJ5m+x1DbecWkw+LK4RNl2CU1hHuOKPVlg==
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.5.3.tgz#71c1303d38fb6639ade183c2992c8cc0686df862"
+  integrity sha512-IIORyIQD9rvj0A4CLWsHkBBJuNqWpFQe224b6j9t/ABmquIS0qDU2pY6kl6AuOrL5OkCXHMCFNe1jBcuAggjvQ==
   dependencies:
     querystringify "^2.1.1"
     requires-port "^1.0.0"
